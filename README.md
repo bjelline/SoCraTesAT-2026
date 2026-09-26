@@ -4,3 +4,5 @@
 * [TDD inside the agent loop: theater or actual value?](tdd-inside-the-agent-loop-theater-or-actual-value)
 
 ## Day Two: 26th Sept. 2026
+
+* [Agents Forget, the Repository Remembers](https://github.com/woditschka/agentic-coding-reference)
